@@ -162,37 +162,58 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Clever Programmer",
-      companylogo: require("./assets/images/cpLogo.png"),
-      date: "September 2020 – Present",
+      role: "Backend Developer",
+      company: "Matrix",
+      companylogo: require("./assets/images/matrix-logo.png"),
+      date: "November 2019 – Present",
       desc:
-        "Changing lives of developers one line of code at a time.",
+        "Specializes in the implementation and development of leading technologies, software solutions, and products, providing its customers with Defense and Security.",
       descBullets: [
-        "Custom building applications",
-        "Coaching",
-        "Streaming live on YouTube",
-        "Creating tutorials"
+        "Backend development (Python - Flask)",
+        "OpenShift (pods & containers)",
+        "DB Architecture (MongoDB)",
+        "Apache Kafka (Producer, Consumer)",
+        "Docker"
       ]
     },
     {
-      role: "Product Owner (PSD2)",
-      company: "Erste Bank",
-      companylogo: require("./assets/images/ersteLogo.jpg"),
-      date: "July 2019 – September 2020",
+      role: "Backend Developer",
+      company: "Reblaze Technologies",
+      companylogo: require("./assets/images/reblaze_HB.jpg"),
+      date: "August 2018 – August 2019",
       desc:
-        "I lead software developers building the API for the bank in order to fulfil the PSD2 regulation requirements."
+        "Reblaze is an intelligent cloud-based cybersecurity solution.",
+      descBullets: [
+        "Backend development: (Python-Tornado, Node-Express)",
+        "RESTful API",
+        "Web Application Security (Layer 7)",
+        "DB Architecture (Google, Firestore)",
+        "Google Cloud Platform (VM, Storage, LB, BigQuery, container registry, Cloud functions)",
+        "AWS (Route53)",
+        "Agile Methodology",
+        "Linux"
+      ]
     },
     {
-      role: "Junior Information Security & Systems Representative",
-      company: "Vodafone",
-      companylogo: require("./assets/images/vodafoneLogo.png"),
-      date: "November 2018 – July 2019",
+      role: "Quality Assurance",
+      company: "Qualitest",
+      companylogo: require("./assets/images/QT_Logo800.jpg"),
+      date: "May 2015 – August 2018",
       desc:
-        "I've conducted internal audit making sure the organization is compliant with the GDPR."
+        "Responsible for data communication in military program called Mesua'a."
+    },
+    {
+      role: "Technical Assistant",
+      company: "Elbit Systems",
+      companylogo: require("./assets/images/elbit.png"),
+      date: "January 2014 – May 2015",
+      desc:
+        "An active participant in Elbit systems experiment as a technical  person when I was responsible for setting up the communications  systems (various military radios)."
     }
   ]
 };
+
+
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
@@ -321,7 +342,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -360,15 +381,15 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "(323) 768 0674",
-  email_address: "contact@davidrakosi.com"
+  number: "052-7585775",
+  email_address: "hayyy1992@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
   userName: "davidrakosi_", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 export {
