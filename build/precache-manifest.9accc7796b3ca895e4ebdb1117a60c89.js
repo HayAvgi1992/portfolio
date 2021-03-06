@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a70b3df3651f488f7196ba3c8f42594c",
+    "revision": "266583efe79c817fd397d081b3d8a4cb",
     "url": "/index.html"
   },
   {
-    "revision": "7745ebb06123677f8439",
+    "revision": "c40efd648edb7fa48d28",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "42d11760820c416e7b03",
+    "revision": "f45cce66f2cca441b816",
     "url": "/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "80cee3983b41a5559d8b",
+    "revision": "9fffc5c2bccfcdeffabe",
     "url": "/static/css/main.9d3e3680.chunk.css"
   },
   {
-    "revision": "cb50446b6a7a3aca8a25",
-    "url": "/static/js/2.acb8145b.chunk.js"
+    "revision": "156edabce610018f542c",
+    "url": "/static/js/2.35731d87.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "/static/js/2.acb8145b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.35731d87.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7745ebb06123677f8439",
-    "url": "/static/js/3.9a33cc03.chunk.js"
+    "revision": "c40efd648edb7fa48d28",
+    "url": "/static/js/3.5ab9c2d6.chunk.js"
   },
   {
-    "revision": "42d11760820c416e7b03",
-    "url": "/static/js/4.d34bf185.chunk.js"
+    "revision": "f45cce66f2cca441b816",
+    "url": "/static/js/4.0fb46604.chunk.js"
   },
   {
-    "revision": "80cee3983b41a5559d8b",
-    "url": "/static/js/main.c748bade.chunk.js"
+    "revision": "9fffc5c2bccfcdeffabe",
+    "url": "/static/js/main.d321873b.chunk.js"
   },
   {
-    "revision": "8a06a3b25cc29d318b46",
-    "url": "/static/js/runtime-main.9bc658e6.js"
+    "revision": "bcc7abf0efc85c8e86a3",
+    "url": "/static/js/runtime-main.85f4f607.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -68,10 +68,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
@@ -94,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
