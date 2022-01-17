@@ -5,7 +5,6 @@
 ## Description
 This is a ReactJS based my resume website template
 
-## Make it Your Own!
 #### PREREQUISITES:
 - Sign up for a Netlify account <a href='https://www.netlify.com'>HERE</a>
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
